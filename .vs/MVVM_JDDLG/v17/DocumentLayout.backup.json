@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AppMoviless\\MVVM_JDDLG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13024EF7-C9A4-4118-94AF-D2DAF72A7425}|MVVM_JDDLG\\MVVM_JDDLG.csproj|c:\\appmoviless\\mvvm_jddlg\\mvvm_jddlg\\mvvm\\views\\comandosview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13024EF7-C9A4-4118-94AF-D2DAF72A7425}|MVVM_JDDLG\\MVVM_JDDLG.csproj|solutionrelative:mvvm_jddlg\\mvvm\\views\\comandosview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13024EF7-C9A4-4118-94AF-D2DAF72A7425}|MVVM_JDDLG\\MVVM_JDDLG.csproj|c:\\appmoviless\\mvvm_jddlg\\mvvm_jddlg\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13024EF7-C9A4-4118-94AF-D2DAF72A7425}|MVVM_JDDLG\\MVVM_JDDLG.csproj|solutionrelative:mvvm_jddlg\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13024EF7-C9A4-4118-94AF-D2DAF72A7425}|MVVM_JDDLG\\MVVM_JDDLG.csproj|c:\\appmoviless\\mvvm_jddlg\\mvvm_jddlg\\mvvm\\viewsmodels\\comandosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13024EF7-C9A4-4118-94AF-D2DAF72A7425}|MVVM_JDDLG\\MVVM_JDDLG.csproj|solutionrelative:mvvm_jddlg\\mvvm\\viewsmodels\\comandosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13024EF7-C9A4-4118-94AF-D2DAF72A7425}|MVVM_JDDLG\\MVVM_JDDLG.csproj|c:\\appmoviless\\mvvm_jddlg\\mvvm_jddlg\\mvvm\\views\\comandosview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13024EF7-C9A4-4118-94AF-D2DAF72A7425}|MVVM_JDDLG\\MVVM_JDDLG.csproj|solutionrelative:mvvm_jddlg\\mvvm\\views\\comandosview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\AppMoviless\\MVVM_JDDLG\\MVVM_JDDLG\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM_JDDLG\\App.xaml.cs",
+              "ToolTip": "C:\\AppMoviless\\MVVM_JDDLG\\MVVM_JDDLG\\App.xaml.cs",
+              "RelativeToolTip": "MVVM_JDDLG\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:59:36.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComandosView.xaml.cs",
+              "DocumentMoniker": "C:\\AppMoviless\\MVVM_JDDLG\\MVVM_JDDLG\\MVVM\\Views\\ComandosView.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM_JDDLG\\MVVM\\Views\\ComandosView.xaml.cs",
+              "ToolTip": "C:\\AppMoviless\\MVVM_JDDLG\\MVVM_JDDLG\\MVVM\\Views\\ComandosView.xaml.cs",
+              "RelativeToolTip": "MVVM_JDDLG\\MVVM\\Views\\ComandosView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:51:51.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComandosViewModel.cs",
+              "DocumentMoniker": "C:\\AppMoviless\\MVVM_JDDLG\\MVVM_JDDLG\\MVVM\\ViewsModels\\ComandosViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM_JDDLG\\MVVM\\ViewsModels\\ComandosViewModel.cs",
+              "ToolTip": "C:\\AppMoviless\\MVVM_JDDLG\\MVVM_JDDLG\\MVVM\\ViewsModels\\ComandosViewModel.cs",
+              "RelativeToolTip": "MVVM_JDDLG\\MVVM\\ViewsModels\\ComandosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:48:15.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComandosView.xaml",
+              "DocumentMoniker": "C:\\AppMoviless\\MVVM_JDDLG\\MVVM_JDDLG\\MVVM\\Views\\ComandosView.xaml",
+              "RelativeDocumentMoniker": "MVVM_JDDLG\\MVVM\\Views\\ComandosView.xaml",
+              "ToolTip": "C:\\AppMoviless\\MVVM_JDDLG\\MVVM_JDDLG\\MVVM\\Views\\ComandosView.xaml*",
+              "RelativeToolTip": "MVVM_JDDLG\\MVVM\\Views\\ComandosView.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T01:47:17.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

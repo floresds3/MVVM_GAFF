@@ -8,7 +8,11 @@
         <Button Text="Click me!"
                 Command="{Binding ClickCommand}"/>
 
-        <Label Text="PROFE, ESTE CÓDIGO ES MIO, DE GAEL ADOLFO FÉLIX FLORES DSM4A, SOLO QUE MI COMPAÑERO JUAN DE DIOS ME HIZO EL FAVOR DE PASARME EL ARCHIVO PORQUE NO LO TENIA AQUI EN LA COMPU DE MI CASA, GRACIAS MIGUEL ALEJANDRO LOPEZ HUMO."/>
-
+        <SearchBar
+            x:Name="searchBar"
+            SearchCommand="{Binding SearchCommand}"
+            SearchCommandParameter="{Binding Source={x:Reference searchBar},
+            Path=Text}"/>
+        
     </VerticalStackLayout>
 </ContentPage>

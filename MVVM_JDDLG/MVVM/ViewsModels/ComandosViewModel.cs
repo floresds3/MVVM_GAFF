@@ -11,11 +11,20 @@ namespace MVVM_JDDLG.MVVM.ViewsModels
     {
         public ICommand ClickCommand { get; }
 
+        public ICommand SearchCommand { get; }
+
+        public string SearchData { get; set; }
+
         public ComandosViewModel() 
         {
             ClickCommand = new Command(() =>
             {
                 App.Current.MainPage.DisplayAlert("Título", "Mensaje", "Aceptar");
+            });
+
+            SearchCommand = new Command((s) =>
+            {
+                var data = s;
             });
 
         }

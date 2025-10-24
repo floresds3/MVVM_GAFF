@@ -2106,3 +2106,4 @@ C:\AppMoviless\MVVM_JDDLG\MVVM_JDDLG\obj\Debug\net8.0-android\stamp\_ConvertReso
 C:\AppMoviless\MVVM_JDDLG\MVVM_JDDLG\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\AppMoviless\MVVM_JDDLG\MVVM_JDDLG\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\AppMoviless\MVVM_JDDLG\MVVM_JDDLG\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\AppMoviless\MVVM_JDDLG\MVVM_JDDLG\obj\Debug\net8.0-android\MVVM_JDDLG.sourcelink.json
